@@ -1,0 +1,21 @@
+{
+  "name": "findtheone",
+  "version": "1.0.0",
+  "description": "cmpe295B project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moocs",
+    "online",
+    "learning",
+    "tutors",
+    "tutorials"
+  ],
+  "author": "Amrish Meghana Nikitha Saumeel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
